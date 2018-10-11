@@ -1,7 +1,9 @@
 # H07 - Getting Started with Apache Kafka
 
 Denise Case
+
 Northwest Missouri State University
+
 44-517 Big Data
 
 ## Overview
@@ -27,6 +29,9 @@ We will:
 This repo is set with helper batch files that work in Windows. Windows uses a backslash in file paths and accesses .bat Windows Command Line batch files found in the kafka bin/windows folder.
 
 Bash uses a forward slash and must access the .sh shell scripts found in the kafka bin folder.
+
+For Bash script examples, try: <https://bitbucket.org/turingloop/h07>
+
 
 ## Understand the Contents
 
